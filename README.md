@@ -3,6 +3,7 @@
 <p>This project demonstrates the creation of a simple chatbot using Natural Language Processing (NLP) techniques.It utilizes the `nltk` library for natural language processing, `scikit-learn` for machine learning, and `streamlit` for creating an interactive web interface.
  The chatbot is trained on predefined intents and responds to user queries based on pattern matching and intent classification.</p>
  <hr>
+ 
  ## Features
  <p>
    <span>
@@ -13,13 +14,15 @@
    </span>
  </p>
  <hr>
+ 
 ## Technologies used
 Python: Primary programming language.
 Natural Language Toolkit (NLTK): Tokenization, stemming, and lemmatization.
 JSON: For storing intents and responses.
-<hr>
+<hr
+ 
 ## Installation
-###1. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone <repository-url>
 cd <repository-directory>
